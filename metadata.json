@@ -1,0 +1,7 @@
+{
+  "name": "Imperium Writer - Siêu Trí Tuệ Viết Truyện",
+  "description": "Hệ thống kiến tạo tiểu thuyết tự động theo cấu trúc module: Dữ liệu -> Logic -> Prompt -> Viết tiếp. Hỗ trợ Voice Studio Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
